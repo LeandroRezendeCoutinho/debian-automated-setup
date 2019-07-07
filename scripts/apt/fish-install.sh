@@ -6,5 +6,4 @@ then
     exit 1
 fi
 
-bash scripts/apt/flatpak-install.sh
-bash scripts/apt/fish-install.sh
+ apt install --yes fish
