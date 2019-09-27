@@ -7,7 +7,10 @@ then
 fi
 
 bash scripts/apt/build-essential-install.sh
+bash scripts/apt/curl-install.sh
 bash scripts/apt/fish-install.sh
-bash scripts/apt/flatpak-install.sh
 bash scripts/apt/google-chrome-install.sh
 bash scripts/apt/tmux-install.sh
+
+# disabled session
+# bash scripts/apt/flatpak-install.sh
