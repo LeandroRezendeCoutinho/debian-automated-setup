@@ -8,6 +8,7 @@ fi
 
 bash scripts/apt/build-essential-install.sh
 bash scripts/apt/curl-install.sh
+bash scripts/apt/electron-dependencies-install.sh
 bash scripts/apt/fish-install.sh
 bash scripts/apt/mono-install.sh
 bash scripts/apt/google-chrome-install.sh
