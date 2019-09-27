@@ -11,6 +11,7 @@ bash scripts/apt/curl-install.sh
 bash scripts/apt/fish-install.sh
 bash scripts/apt/google-chrome-install.sh
 bash scripts/apt/tmux-install.sh
+bash scripts/apt/wine-install.sh
 
 # disabled session
 # bash scripts/apt/flatpak-install.sh
