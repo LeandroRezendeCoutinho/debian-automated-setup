@@ -14,3 +14,5 @@ make
 make install
 cd ..
 rm -rf tmux-mem-cpu-load
+
+cp scripts/config/.tmux.conf ~/
